@@ -1,11 +1,7 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=SRINIVAS%20DEVALLA&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20AI%20%26%20ML%20Engineer%20%E2%80%A2%20President%2C%20HackSpace%20Club&descSize=20&descAlignY=60" width="100%" alt="header"/>
-
-<a href="https://github.com/Srinivas14aiml">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=36BCF7&center=true&vCenter=true&width=820&lines=Full-Stack+Developer+%7C+AI+%26+ML+Engineer;Java+Spring+Boot+%C2%B7+React+%C2%B7+Python+%C2%B7+Generative+AI;Top+Performer+%40+VISIONAVA+2K25+National+Hackathon;Cognizant+Technoverse+Runner-Up+%7C+TEJAS+2K26+Expo;Leading+100%2B+student+developers+at+Anurag+University" alt="Typing SVG" />
-</a>
+<img src="./assets/hero.svg" width="100%" alt="Srinivas Devalla — Full-Stack AI & ML Engineer"/>
 
 <br/><br/>
 
@@ -20,6 +16,34 @@
 <img src="https://img.shields.io/github/followers/Srinivas14aiml?style=flat-square&logo=github&color=24292e" alt="followers"/>
 <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Full--Time%20Roles-brightgreen?style=flat-square" alt="open"/>
 
+</div>
+
+---
+
+## ⏱️ The 30-Second Recruiter Summary
+
+<div align="center">
+
+| 🎯 **Hire me for** | 🧱 **What I bring** | 📈 **Proof** |
+|:--|:--|:--|
+| Backend / Full-Stack (Java Spring Boot, React) | Secure REST APIs, JWT auth, PostgreSQL, role-based access | QR Attendance System (dynamic QR tokens + JWT) |
+| AI / ML Engineering | Predictive models with explainability (SHAP), NLP chatbots, forecasting | Cognizant Runner-Up · ClimaCore · Student AI Chatbot |
+| Leadership and ownership | Organising 24-hour national hackathons end to end | President, HackSpace Club · 100+ contributors |
+| Learning speed | 20+ repos, certifications from AWS, IIT Kharagpur, IBM, ServiceNow, Salesforce | See certifications below |
+
+**📬 Fastest way to reach me:** [devallasrinivas14@gmail.com](mailto:devallasrinivas14@gmail.com) · [LinkedIn DM](https://www.linkedin.com/in/srinivas-devalla-22305328b/)
+
+</div>
+
+---
+
+## 🐍 My Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Srinivas14aiml/Srinivas14aiml/output/github-snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Srinivas14aiml/Srinivas14aiml/output/github-snake.svg" />
+</picture>
 </div>
 
 ---
@@ -238,6 +262,16 @@ Driving technical culture, national hackathons and AI engineering initiatives at
 |---|---|---|
 | **Anurag University** | B.Tech, Artificial Intelligence & Machine Learning | 2023 – 2027 |
 | **Bhashyam Junior College** | Intermediate | 2020 – 2022 |
+
+---
+
+## 🧭 Skill Radar
+
+<div align="center">
+<img width="460" src="https://quickchart.io/chart?bkg=transparent&c=%7Btype%3A%27radar%27%2Cdata%3A%7Blabels%3A%5B%27Backend%27%2C%27Frontend%27%2C%27ML%2FAI%27%2C%27Data%27%2C%27Cloud%27%2C%27Leadership%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Srinivas%27%2Cdata%3A%5B9%2C8%2C8%2C8%2C6%2C9%5D%2CbackgroundColor%3A%27rgba(54%2C188%2C247%2C0.35)%27%2CborderColor%3A%27%2336bcf7%27%7D%5D%7D%2Coptions%3A%7Bscale%3A%7Bticks%3A%7Bmin%3A0%2Cmax%3A10%2Cdisplay%3Afalse%7D%7D%2Clegend%3A%7Bdisplay%3Afalse%7D%7D%7D" alt="skill radar"/>
+</div>
+
+<sub>Self-assessed on a 10-point scale.</sub>
 
 ---
 
